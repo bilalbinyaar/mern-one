@@ -2,6 +2,7 @@ const data = {
   products: [
     // OBJECT # 1
     {
+      _id: '1',
       name: 'Product One',
       slug: 'product-one',
       category: 'Category One',
@@ -16,6 +17,7 @@ const data = {
 
     // OBJECT # 2
     {
+      _id: '2',
       name: 'Product Two',
       slug: 'product-two',
       category: 'Category Two',
@@ -30,6 +32,7 @@ const data = {
 
     // OBJECT # 3
     {
+      _id: '3',
       name: 'Product Three',
       slug: 'product-three',
       category: 'Category Two',
@@ -44,6 +47,7 @@ const data = {
 
     // OBJECT # 4
     {
+      _id: '4',
       name: 'Product Four',
       slug: 'product-four',
       category: 'Category One',
